@@ -2,6 +2,11 @@
 
 Static reviewer for CCS 308 Software Engineering.
 
+Pages:
+
+- Original reviewer: https://jrd017.github.io/SoftEng-Reviewer/
+- Password copy: https://jrd017.github.io/SoftEng-Reviewer/password/
+
 Live page sources:
 
 - Prelim exam reviewer: https://jrd017.github.io/ccs308-software-engineering-reviewer/
